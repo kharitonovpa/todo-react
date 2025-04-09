@@ -1,0 +1,12 @@
+.item {
+  display: flex;
+  gap: 16px;
+}
+
+.completed {
+  text-decoration: line-through;
+}
+
+.label {
+  cursor: pointer;
+}
